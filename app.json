@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "NovaloidInventory",
+    "slug": "novaloid-inventory",
+    "version": "1.0.0",
+    "sdkVersion": "54.0.0",
+    "platforms": ["ios", "android", "web"],
+    "assetBundlePatterns": ["**/*"],
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    }
+  }
+}
